@@ -1,10 +1,9 @@
 
 #include<Windows.h>
-#include"../../BaseIncluder/ChBase.h"
+#include"../../../ChCppBaseLibrary/BaseIncluder/ChBase.h"
 #include"../../BaseIncluder/ChD3D9I.h"
 
-#include"../../WindowsObject/MsgBox/ChMsgBox.h"
-
+#include"../../../ChCppWinLibrary/WindowsObject/MsgBox/ChMsgBox.h"
 
 using namespace ChD3D9;
 

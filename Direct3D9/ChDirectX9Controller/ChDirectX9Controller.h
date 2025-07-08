@@ -4,8 +4,7 @@
 #ifndef Ch_D3D9_DXCo_h
 #define Ch_D3D9_DXCo_h
 
-#include"../../ClassParts/ChCPInitializer.h"
-
+#include"../../../ChCppBaseLibrary/ClassParts/ChCPInitializer.h"
 
 #ifndef	CH_D3D9CONTROLLER_INIT_TEST
 #define	CH_D3D9CONTROLLER_INIT_TEST(_drawFlg, _defaultResult)\

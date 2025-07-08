@@ -1,7 +1,7 @@
 #include<Windows.h>
 
-#include"../../BaseIncluder/ChBase.h"
-#include"../../CPP/ChFile/ChBinaryFile.h"
+#include"../../../ChCppBaseLibrary/BaseIncluder/ChBase.h"
+#include"../../../ChCppBaseLibrary/CPP/ChFile/ChBinaryFile.h"
 
 #include"../../BaseIncluder/ChD3D9I.h"
 

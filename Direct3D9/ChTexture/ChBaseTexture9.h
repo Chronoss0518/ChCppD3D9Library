@@ -3,9 +3,9 @@
 
 #include<string>
 
-#include"../../BasePack/ChPtr.h"
-#include"../../BasePack/ChMath3D.h"
-
+#include"../../../ChCppBaseLibrary/BasePack/ChPtr.h"
+#include"../../../ChCppBaseLibrary/BasePack/ChMath.h"
+#include"../../../ChCppBaseLibrary/BasePack/ChMath3D.h"
 
 namespace ChTex
 {

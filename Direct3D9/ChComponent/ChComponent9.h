@@ -2,8 +2,7 @@
 #ifndef Ch_D3D9_Com_h
 #define Ch_D3D9_Com_h
 
-#include"../../CPP/ChBaseObject/ChBaseObject.h"
-
+#include"../../../ChCppBaseLibrary/CPP/ChBaseObject/ChBaseObject.h"
 /*
 
 typedef class ChTransformComponent9 :public ChCpp::TransformCom

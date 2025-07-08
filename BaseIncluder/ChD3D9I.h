@@ -9,9 +9,9 @@
 #pragma comment(lib, "dinput8.lib")
 #pragma comment(lib, "dxguid.lib")
 
-#include"../External/LegacyDirectX/Include/d3dx9.h"
-#include"../External/LegacyDirectX/Include/d3dx9anim.h"
-#include"../External/LegacyDirectX/Include/dsound.h"
+#include"../../ChCpp_External_Legacy_DirectX/Include/d3dx9.h"
+#include"../../ChCpp_External_Legacy_DirectX/Include/d3dx9anim.h"
+#include"../../ChCpp_External_Legacy_DirectX/Include/dsound.h"
 
 #include"../Direct3D9/ChPackDate/ChMatrix_9.h"
 #include"../Direct3D9/ChPackDate/ChVector3_9.h"

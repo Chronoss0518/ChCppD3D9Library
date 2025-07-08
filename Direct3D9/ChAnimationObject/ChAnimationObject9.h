@@ -7,8 +7,8 @@
 #include<map>
 #include<string>
 
-#include"../../BasePack/ChPtr.h"
-#include"../../CPP/ChBitBool/ChBitBool.h"
+#include"../../../ChCppBaseLibrary/BasePack/ChPtr.h"
+#include"../../../ChCppBaseLibrary/CPP/ChBitBool/ChBitBool.h"
 
 class ChAnimationSupporter9;
 

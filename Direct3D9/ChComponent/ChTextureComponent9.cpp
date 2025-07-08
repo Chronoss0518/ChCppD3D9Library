@@ -1,11 +1,11 @@
 
 #include<Windows.h>
-#include"../../BaseIncluder/CHBase.h"
+#include"../../../ChCppBaseLibrary/BaseIncluder/ChBase.h"
 
-#include"../../CPP/ChBitBool/ChBitBool.h"
-#include"../../CPP/ChBaseObject/ChBaseObject.h"
-#include"../../CPP/ChBaseObject/ChBaseComponent.h"
-#include"../../CPP/ChBaseObject/ChObjectManager.h"
+#include"../../../ChCppBaseLibrary/CPP/ChBitBool/ChBitBool.h"
+#include"../../../ChCppBaseLibrary/CPP/ChBaseObject/ChBaseObject.h"
+#include"../../../ChCppBaseLibrary/CPP/ChBaseObject/ChBaseComponent.h"
+#include"../../../ChCppBaseLibrary/CPP/ChBaseObject/ChObjectManager.h"
 
 #include"../../BaseIncluder/ChD3D9I.h"
 

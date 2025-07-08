@@ -1,7 +1,7 @@
 #ifndef Ch_D3D9_BBox_h
 #define Ch_D3D9_BBox_h
 
-#include"../../BasePack/ChPtr.h"
+#include"../../../ChCppBaseLibrary/BasePack/ChPtr.h"
 
 namespace ChMesh
 {

@@ -3,7 +3,7 @@
 
 #include"../ChVertexData9.h"
 
-#include"../../CPP/ChBaseObject/ChBaseComponent.h"
+#include"../../../ChCppBaseLibrary/CPP/ChBaseObject/ChBaseComponent.h"
 
 namespace ChTex
 {

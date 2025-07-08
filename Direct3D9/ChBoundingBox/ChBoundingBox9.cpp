@@ -1,9 +1,9 @@
 
 #include<Windows.h>
-#include"../../BaseIncluder/ChBase.h"
+#include"../../../ChCppBaseLibrary/BaseIncluder/ChBase.h"
 #include"../../BaseIncluder/ChD3D9I.h"
 
-#include"../../CPP/ChBitBool/ChBitBool.h"
+#include"../../../ChCppBaseLibrary/CPP/ChBitBool/ChBitBool.h"
 
 #include"../ChAnimationObject/ChAnimationObject9.h"
 #include"../ChTexture/ChBaseTexture9.h"
